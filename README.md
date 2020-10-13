@@ -25,3 +25,5 @@ Repo contains folder whith Jupyter notebook and resources
 
 <img src="/Drug Treatment Bar Chart.png" alt="Drug Treatment Bar Chart">
 
+[GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
