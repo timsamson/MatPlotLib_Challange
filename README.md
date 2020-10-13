@@ -23,5 +23,5 @@ Repo contains folder whith Jupyter notebook and resources
 
 <h2>Observation and Analysis</h2>
 
-<img src="Drug Treatment Bar Chart.png" alt="Drug Treatment Bar Chart">
+<img src="/Drug Treatment Bar Chart.png" alt="Drug Treatment Bar Chart">
 
