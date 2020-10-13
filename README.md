@@ -10,13 +10,13 @@ Insert copy here
 
 <ul><li>Python 3.6</li>
 <li>Jupyter Notebook</li>
-<li>Pandas</li>
+<li>Pandas</li></ul>
 
 <h2>Dependencies</h2>
-<li>MatPlotLib</li>
+<ul><li>MatPlotLib</li>
 <li>Scipy.stats</li>
 <li>Numby</li>
-<li>PyPlot</li>
+<li>PyPlot</li></ul>
 
 <h2>General Notes</h2>
 
