@@ -58,13 +58,13 @@ Analysis: Approximatly equal number of make and female mice are int ehh study.
 
 <h3>Quartiles, Outliers and Boxplots</h3>
 The final tumor volume of each mouse across four of the most promising treatment regimens
-<ol><li>Capomulin</li><li> Ramicane</li><li> Infubinol</li><li>Ceftamin</li> 
+<ol><li>Capomulin</li><li> Ramicane</li><li> Infubinol</li><li>Ceftamin</li> </ol>
 
-Quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.
+<b>Quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.</b>
 
 ![Quartiles and IQR"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/quanitative.png)
 
-Box and Whisker Plot
+<b>Box and Whisker Plot</b>
 
 ![Tumor Volume Box Plot"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Tumor%20Volume%20Box%20Plot.png)
 
