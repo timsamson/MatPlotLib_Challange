@@ -30,3 +30,4 @@ Format: ![Alt Text](url)
 
 [Drug Treatment Bar Chart"](/Drug Treatment Bar Chart.png?raw=true "Optional Title")
 
+![Drug Treatment Bar Chart"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/Drug%20Treatment%20Bar%20Chart.png)
