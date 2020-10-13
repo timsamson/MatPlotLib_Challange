@@ -23,11 +23,4 @@ Repo contains folder whith Jupyter notebook and resources
 
 <h2>Observation and Analysis</h2>
 
-<img src="/Drug Treatment Bar Chart.png" alt="Drug Treatment Bar Chart">
-
-[GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-[Drug Treatment Bar Chart"](/Drug Treatment Bar Chart.png?raw=true "Optional Title")
-
 ![Drug Treatment Bar Chart"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/Drug%20Treatment%20Bar%20Chart.png)
