@@ -21,7 +21,7 @@ Insert copy here
 <h2>General Notes</h2>
 
 Repo contains folder whith Jupyter notebook and resources
-
+Please use note titled: pymaceuticals.ipynb
 
 <h2>Observation and Analysis</h2>
 
@@ -59,6 +59,7 @@ Analysis: Approximatly equal number of make and female mice are int ehh study.
 <h3>Quartiles, Outliers and Boxplots</h3>
 The final tumor volume of each mouse across four of the most promising treatment regimens
 <ol><li>Capomulin</li><li> Ramicane</li><li> Infubinol</li><li>Ceftamin</li> </ol>
+
 
 <b>Quartiles, IQR, and potential outliers across all the four treatment regimens was quantitatively determined.</b>
 
