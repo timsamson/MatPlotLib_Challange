@@ -47,10 +47,11 @@ Quartiles, IQR, and potential outliers across all the four treatment regimens wa
 
 ![Quartiles and IQR"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/quanitative.png)
 
-Outliers
-
+Box and Whisker Plot
 
 ![Tumor Volume Box Plot"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Tumor%20Volume%20Box%20Plot.png)
+
+<h3>Tumor Volume</h3>
 
 ![Tumor Volume Lne (single Mouse)"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Tumor%20Volume%20Lne%20(single%20Mouse).png)
 
