@@ -25,4 +25,18 @@ Repo contains folder whith Jupyter notebook and resources
 
 <h2>Observation and Analysis</h2>
 
-![Drug Treatment Bar Chart"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/Drug%20Treatment%20Bar%20Chart.png)
+![Drug Treatment Bar Chart"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Drug%20Treatment%20Bar%20Chart.png)
+
+![Drug Treatment Bar PyPlot"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Drug%20Treatment%20Bar%20PyPlot.png)
+
+![Mice Sex Pie Chart"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Mice%20Sex%20Pie%20Chart.png)
+
+![Mice Sex Pie Chart PyPlot"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Mice%20Sex%20Pie%20Chart%20PyPlot.png)
+
+![Tumor Volume Box Plot"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Tumor%20Volume%20Box%20Plot.png)
+
+![Tumor Volume Lne (single Mouse)"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Tumor%20Volume%20Lne%20(single%20Mouse).png)
+
+![Scatter Plot Capomulin"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Scatter%20Plot%20Capomulin.png)
+
+![Regression Model"](https://github.com/timsamson/MatPlotLib_Challange/blob/main/images/Regression.png)
