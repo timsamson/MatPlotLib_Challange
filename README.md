@@ -4,7 +4,7 @@
 
 <h2>Intoduction</h2>
 
-Insert copy here
+The Pymaceuticals challnage examines different cancer treatments and thier efficacy on labratory mice. The study looks at multiple treatemnts and then later focuses on four for further analysis. Observations and Analysis can be found below. 
 
 <h2>Technologies</h2>
 
