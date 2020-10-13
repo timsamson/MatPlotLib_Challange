@@ -21,7 +21,9 @@ The Pymaceuticals challnage examines different cancer treatments and thier effic
 <h2>General Notes</h2>
 
 Repo contains folder whith Jupyter notebook and resources
-Please use note titled: pymaceuticals.ipynb
+Please use notebood titled:
+ 
+<b>pymaceuticals.ipynb</b>
 
 <h2>Observation and Analysis</h2>
 
