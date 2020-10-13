@@ -4,17 +4,19 @@
 
 <h2>Intoduction</h2>
 
-Heroes of Pymoli is the most recent online game from a gaming company. The task at hand is to analyze the data using Pandas to look for trends and charactieristics amoung the players. Using pandas we will analyze player count, gender makeup and purchasing habits, top spenders and best products.
+Insert copy here
 
 <h2>Technologies</h2>
 
-Python 3.6
-Pandas
+<ul><li>Python 3.6</li>
+<li>Jupyter Notebook</li>
+<li>Pandas</li>
 
 <h2>Dependencies</h2>
-matplotlib
-pyplot
-scipy.stats
+<li>MatPlotLib</li>
+<li>Scipy.stats</li>
+<li>Numby</li>
+<li>PyPlot</li>
 
 <h2>General Notes</h2>
 
